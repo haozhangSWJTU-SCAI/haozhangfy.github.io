@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working with the [School of Computing and Artificail Intelligence](https://scai.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) and [Xi-Le Zhao] (https://zhaoxile.github.io/) ) from the School of Mathematical Sciences, University of Electronic Science and Technology of China at 2024.12. 
+I am currently working with the [School of Computing and Artificail Intelligence](https://scai.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) and [Xi-Le Zhao](https://zhaoxile.github.io/)) from the School of Mathematical Sciences, University of Electronic Science and Technology of China at 2024.12. 
 
 My current interests include intelligent tensor representation and foundations, efficient algorithm designing, AI for life-science. 
 
-<span style="color:red">**Self-motivated students are welcome to join my research group. Please feel free to contact me.**.</span>
+<span style="color:red">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
-E-mail: <aronzhangfy@163.com>&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhanghao001/zh_CN/index.htm)
+E-mail: <aronzhangfy@163.com>&emsp; [学校主页](https://faculty.swjtu.edu.cn/zhanghao001/zh_CN/index.htm)
 
 # Projects
 
--  [Iregular Tensor Toolbox](https://github.com/~)
+-  [Irregular Tensor Toolbox](https://github.com/~)
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a> -->
@@ -66,7 +66,7 @@ E-mail: <aronzhangfy@163.com>&emsp; 🏫[学校主页](https://faculty.swjtu.edu
 
 ## 2022
 
-- Cheng-Yao lyu, Xi-Le Zhao\*, **Hao Zhang**, Beng-Zheng Li, \"Multi-Dimensional Image Recovery via Fully-Connected Tensor Network Decomposition Under the Learnable Transforms\", _Journal of Scientific Computing_, 2022, 93: 49
+- Cheng-Yao lyu, Xi-Le Zhao\*, **Hao Zhang**, Beng-Zheng Li, \"Multi-Dimensional Image Recovery via Fully-Connected Tensor Network Decomposition Under the Learnable Transforms\", _Journal of Scientific Computing_, 2022, 93: 49 [[Website]](https://link.springer.com/article/10.1007/s10915-022-02009-0)
 
 - **Hao Zhang**, Ting-Zhu Huang\*, Xi-Le Zhao\*, \"A Fast Sketching-Based Algorithm for Rank-(L,L,1) Block Term Decomposition\", _Applied Mathematics Letters_, 2022, 133: 108252 [[Website]](https://www.sciencedirect.com/science/article/pii/S0893965922001987)
 
@@ -96,7 +96,7 @@ E-mail: <aronzhangfy@163.com>&emsp; 🏫[学校主页](https://faculty.swjtu.edu
 
 # Awards and Honors
 
-- Outstanding Student of UESTC (<span style="color:red">成电杰出学生（研究生）</span>)，2024
+- Outstanding Student of UESTC (<span style="color:red">成电杰出学生</span>)，2024
 - Outstanding Graduate Student of Sichuan Province (四川省优秀毕业生)，2025
 - National Scholarship for Graduate Students (国家奖学金)，2020，2024
 - UESTC First-Class Academic Scholarship (学业一等奖学金)，2020，2022，2024
