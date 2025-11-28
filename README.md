@@ -1,4 +1,2 @@
-# My Homepage
-This is [my homepage](http://haozhangSWJTU.github.io/).
-
-
+# benzhengli.github.io
+个人主页
