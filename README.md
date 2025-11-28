@@ -1,4 +1,4 @@
 # My Homepage
-This is [my homepage](http://haozhangSWJTU-SCAI.github.io/).
+This is [my homepage](http://haozhangSWJTU.github.io/).
 
 
