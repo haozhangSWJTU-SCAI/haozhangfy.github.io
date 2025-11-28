@@ -108,28 +108,39 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* ===== 超大侧栏头像效果 ===== */
+/* ======= 横向展示作者简介 ======= */
 
-/* 侧栏加宽，让头像有足够空间 */
+/* 把侧栏取消宽度限制 */
 .sidebar {
-  flex: 0 0 520px !important;   /* 比之前的 360/420 明显扩大 */
-  max-width: 520px !important;
-}
-
-/* 头像容器居中 */
-.author__avatar {
-  display: block !important;
-  text-align: center !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: unset !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
   margin-bottom: 2rem !important;
 }
 
-/* 头像本体强化宽度 */
-.author__avatar img {
-  width: 100% !important;       /* 吃满侧栏 */
-  max-width: 600px !important;  /* 头像最大宽度，超明显！ */
-  height: auto !important;
-  border-radius: 0 !important;  /* 保持方形，不剪裁 */
-  object-fit: cover !important; /* 保证画面填满，不变形 */
-  box-shadow: 0 0 12px rgba(0,0,0,0.2); /* 让头像更突出 */
+/* 横排布局：头像 + 文本 */
+.profile_box {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 2rem !important;
 }
 
+/* 放大头像 */
+.author__avatar img {
+  width: 320px !important;     /* 想有冲击力的话改 360 / 420 / 480 */
+  max-width: none !important;
+  height: auto !important;
+  border-radius: 0 !important;
+  object-fit: cover !important;
+  box-shadow: 0 0 8px rgba(0,0,0,0.15);
+}
+
+/* 让名字和信息居左显示 */
+.author__content,
+.author__urls-wrapper {
+  text-align: left !important;
+}
