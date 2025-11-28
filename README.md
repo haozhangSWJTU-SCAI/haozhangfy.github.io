@@ -1,2 +1,1 @@
-# benzhengli.github.io
-个人主页
+This is my [homepage](https://haozhangswjtu.github.io/)
