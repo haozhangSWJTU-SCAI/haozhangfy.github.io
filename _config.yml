@@ -10,7 +10,7 @@ title                    : "Hao Zhang (张浩) | SWJTU"
 description              : "<br>"
 url                      : "https://haozhangswjtu-scai.github.io"
 baseurl                  : ""          # 用户主页仓库，必须是空字符串
-repository               : "https://github.com/haozhangSWJTU-SCAI/"
+repository               : "https://github.com/haozhangSWJTU/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
